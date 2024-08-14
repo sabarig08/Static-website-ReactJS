@@ -1,0 +1,26 @@
+form{
+
+    text-align: center;
+    margin-top: 5%;
+    padding: 5px;
+
+}
+button{
+    margin-top: 10px;
+    margin-left: 40px;
+    background-color: blue;
+    color: black;
+    border-radius: 10px;
+    width: 80px;
+    height: 30px;
+    cursor: pointer;
+}
+input{
+    margin-left: 15px;
+    padding: 5px;
+    width: 10%;
+}
+button:hover{
+    background-color: white;
+    color: black;
+}
